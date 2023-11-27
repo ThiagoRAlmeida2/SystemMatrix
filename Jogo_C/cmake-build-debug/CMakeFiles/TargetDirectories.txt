@@ -1,0 +1,3 @@
+C:/Users/thiago.ralmeida/CLionProjects/Jogo_C/cmake-build-debug/CMakeFiles/Jogo_C.dir
+C:/Users/thiago.ralmeida/CLionProjects/Jogo_C/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/thiago.ralmeida/CLionProjects/Jogo_C/cmake-build-debug/CMakeFiles/rebuild_cache.dir
