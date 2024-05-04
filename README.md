@@ -11,11 +11,9 @@ Atualmente, este repositório inclui os seguintes sistemas:
 
 2. [Sistema de Controle de Estoque](sistema/controle-estoque): Um sistema para acompanhar o estoque de produtos em um negócio.
 
-3. [Sistema de loja completo](sistema/Loja-completo): Um sistema de loja completo, caixa, estoque, ponto, funcionario, etc.
+3. [Sistema de Registro de Clientes](sistema/registro-clientes): Um sistema para armazenar informações de clientes e suas transações.
 
-4. [Sistema de Registro de Clientes](sistema/registro-clientes): Um sistema para armazenar informações de clientes e suas transações.
-
-5. [Sistema de Banco](sistema/Banco): Um sistema de banco, para usar como exemplo em POO.
+4. [Games](sistema/Games): Um jogo de numeros, para se divertir um pouco
 
 ## Como Usar
 
