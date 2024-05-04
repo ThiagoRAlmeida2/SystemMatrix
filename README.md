@@ -1,6 +1,6 @@
-# sistema
+# SystemMatrix
 
-Bem-vindo ao repositório "Meus Sistemas". Este repositório contém uma coleção dos sistemas que desenvolvi ao longo do tempo. 
+Bem-vindo ao repositório "SystemMatrix". Este repositório contém uma coleção dos sistemas em C/C++ que desenvolvi ao longo do tempo. 
 Cada sistema é projetado para atender a diferentes necessidades e desafios. Este README oferece uma visão geral do que está incluído neste repositório e como você pode usá-lo.
 
 ## Conteúdo
